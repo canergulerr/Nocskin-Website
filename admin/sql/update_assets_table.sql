@@ -1,0 +1,5 @@
+ALTER TABLE `homepage_assets`
+ADD COLUMN `link_url` VARCHAR(255) DEFAULT '',
+ADD COLUMN `display_title` VARCHAR(255) DEFAULT '',
+ADD COLUMN `description` TEXT DEFAULT NULL,
+ADD COLUMN `button_text` VARCHAR(100) DEFAULT '';

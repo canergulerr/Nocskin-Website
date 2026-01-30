@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteBase /
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [F,L]
+
+# Error Logging
+php_flag display_errors off
+php_value error_log /home/unitabco/public_html/error_log
+
+# 1. If it's a directory or a file that exists, serve it directly
+RewriteCond %{REQUEST_FILENAME} -d [OR]
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# 2. If the request allows .php extension to be hidden, internally rewrite to .php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+)$ $1.php [L,QSA]
+
+# 3. Handle cases where the request is for a directory without trailing slash
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.*[^/])$ /$1/ [L,R=301]

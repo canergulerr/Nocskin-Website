@@ -1,0 +1,1 @@
+.product-header .logo{position:static;width:auto;margin-left:-1.5rem}@media (min-width:992px){.product-header .logo{margin-left:-4.375rem}}.product-header .logo:after{max-width:200px}.product-header .logo img{max-width:160px}@media (min-width:544px){.product-header .logo:after,.product-header .logo img{max-width:unset}}

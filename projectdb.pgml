@@ -1,0 +1,572 @@
+<project>
+    <documents>
+        <document url="%2540theordinary.html">
+            <elements></elements>
+        </document>
+        <document url="deciem.html">
+            <elements></elements>
+        </document>
+        <document url="en-ca.html">
+            <elements></elements>
+        </document>
+        <document url="en-us-1.html">
+            <elements></elements>
+        </document>
+        <document url="en-us-2.html">
+            <elements></elements>
+        </document>
+        <document url="en-us.html">
+            <elements>
+                <element selector="html" desc="<nametag>html</nametag>" status="ok" auto="true">
+                    <action id="wp-template" wp-template wp-template-export-as="index.php" wp-template-define-master-page="true" name="Page settings"></action>
+                </element>
+            </elements>
+        </document>
+        <document url="index-1.htm">
+            <elements></elements>
+        </document>
+        <document url="index-2.htm">
+            <elements></elements>
+        </document>
+        <document url="index.htm">
+            <elements></elements>
+        </document>
+        <document url="ns.html">
+            <elements></elements>
+        </document>
+        <document url="theordinary.html">
+            <elements></elements>
+        </document>
+        <document url="about/analytics/index.htm">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-cold-pressed-virgin-marula-face-oil-100389.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-organic-cold-pressed-moroccan-argan-face-oil-100393.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-l-ascorbic-acid-powder-vitamin-c-100390.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-niacinamide-powder-serum-100391.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-fermented-rose-hip-seed-oil-100681.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-organic-cold-pressed-rose-hip-seed-face-oil-100394.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/about-us.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/100-plant-derived-squalane-face-oil-100398.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/accessibility.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/aloe-2-nag-2-solution-blemish-serum-100618.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/alpha-arbutin-2-ha-serum-100401.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/argireline-solution-10-serum-100403.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/ascorbyl-tetraisopalmitate-solution-20-in-vitamin-f-vitamin-c-100406.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/azelaic-acid-suspension-10-exfoliator-100407.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/balancing-clarifying-serum-100641.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/aha-30-bha-2-peeling-solution-exfoliator-100400.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/blog.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/caffeine-solution-5-egcg-eye-serum-100412.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/ascorbyl-glucoside-solution-12-vitamin-c-100405.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/cart.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/check-balance.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/contact-us.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/changeisthejourney.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/deciem-about.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/create-account.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/disposal-instructions.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/deciem-earth.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/do-not-sell.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/faq.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/everything-is-chemicals.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/find-us.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/gf-15-solution-growth-factors-serum-100702.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/gift-card-terms-and-conditions.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/gift-card-100570.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/glucoside-foaming-face-cleanser-100616.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/glycolic-acid-7-exfoliating-toner-100418.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/granactive-retinoid-2-emulsion-serum-100419.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/glycolipid-cream-face-cleanser-100615.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/euk-134-01-antioxidant-serum-100417.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/hyaluronic-acid-2-b5-serum-with-ceramides-100637.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/granactive-retinoid-5-in-squalane-serum-100421.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/ingredient-glossary.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/join-us.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/ingredients-book-100735.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/lactic-acid-10-ha-exfoliator-100426.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/login-1.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/lactic-acid-5-ha-exfoliator-100427.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/login.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/mandelic-acid-10-ha-exfoliator-100429.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/matrixyl-10-ha-serum-100431.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-active-delivery-essence-100706.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-peptide-eye-serum-100620.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-peptide-copper-peptides-1-serum-100625.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-peptide-ha-serum-100613.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-peptide-lash-brow-serum-100111.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-antioxidant-radiance-serum-100716.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/multi-peptide-serum-for-hair-density-hair-scalp-treatment-100434.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/natural-moisturizing-factors-beta-glucan-moisturizer-100612.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/niacinamide-10-zinc-1-serum-100436.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/niacinamide-5-face-body-serum-100661.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/natural-moisturizing-factors-ha-moisturizer-100435.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/natural-moisturizing-factors-phytoceramides-moisturizer-100610.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/order-lookup.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/password-reset.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/privacy-policy.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/regimen-builder.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/promotional-offer-terms.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/pycnogenol-5-antioxidant-serum-100437.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/pha-5-exfoliating-lip-serum-100721.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/resveratrol-3-ferulic-acid-3-antioxidant-serum-100438.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/retinal-02-emulsion-100646.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/retinol-1-in-squalane-serum-100441.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/returns.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/retinol-02-in-squalane-serum-100439.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/retinol-05-in-squalane-serum-100440.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/salicylic-acid-05-body-serum-100644.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/saccharomyces-ferment-30-milky-toner-100647.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/salicylic-acid-2-anhydrous-solution-exfoliator-100442.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/salicylic-acid-2-face-masque-100443.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/serum-foundation-100445.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/skincare-regimen-for-beginners.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/soothing-barrier-support-serum-100634.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/soothing-barrier-support-serum-gift-set-100736.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/salicylic-acid-2-solution-acne-control-100098.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/squalane-face-cleanser-100446.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/sulfur-10-powder-to-cream-concentrate-100708.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/supply-chain-transparency.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/terms.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-acne-set-100631.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-age-support-set-100719.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/squalane-amino-acids-lip-balm-100657.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-antioxidant-collection-200126.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-balance-set-100447.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-bright-set-100664.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-daily-set-100649.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-face-and-body-gift-set-100729.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-glycolic-acid-gift-set-100666.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-hydration-collection-200133.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-eye-lash-and-brow-collection-300129.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-mini-discovery-set-100680.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-cleanser-discovery-gift-set-100639.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-mini-icons-skincare-set-100679.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-most-loved-gift-set-100633.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-multi-peptide-collection-200130.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-lip-lash-gfit-set-100725.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-nightly-gift-set-100671.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-periodic-fable.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-ordinary-slowvember-coming-soon.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-resurface-hydrate-gift-set-100673.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-sensitive-skin-collection-200134.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-power-of-peptides-gift-set-100635.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-smooth-skin-collection-200123.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-uneven-skin-tone-collection-200125.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/vitamin-c-suspension-23-ha-spheres-2-vitamin-c-100451.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/uv-filters-spf-45-serum-100720.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-winter-skin-gift-set-100734.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/blog/mastering-skincare-routine-guide.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/blog/skincare-layering-guide.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/blog/definitive-guide-using-retinoids.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/blog/skincare-toners.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/best-sellers.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/body-hair.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/fond-farewell.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/gifts.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/new.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/newfeatured.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/body-hair/lash-brow-treatment.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/body-hair/body-care.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/body-hair/hair-scalp-solutions.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/body-hair/lip-care.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/gifts/gift-sets.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/exfoliators.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/eye-serums.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/face-masks.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/face-oils.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/moisturizers.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/facial-cleansers.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/serums.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/skincare-products.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/suncare.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/skincare-sets.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/toners.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/concern/reduce-redness.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/antioxidant-support.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/barrier-support.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/dryness.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/dullness.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/eye-care.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/sensitive-skin.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/signs-of-aging.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/textural-irregularities.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/signs-of-congestion.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/uneven-skin-tone.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/uv-protection.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-concern/visible-shine.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/antioxidants.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/copper-peptides.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/direct-acids.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/hyaluronic-acid.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/hydrators.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/multi-active.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/niacinamide.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/peptides.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/retinoids.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/vitamin-c.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/salicylic-acid.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-ingredients/squalane.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-step/prep.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-step/treat.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/category/skincare/shop-by-step/seal.html">
+            <elements></elements>
+        </document>
+        <document url="en-us/the-ordinary/skincare/shop-by-step.html">
+            <elements></elements>
+        </document>
+        <document url="theordinary/index.htm">
+            <elements></elements>
+        </document>
+    </documents>
+</project>

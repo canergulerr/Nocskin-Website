@@ -1,0 +1,9 @@
+{
+  "action": "addProduct",
+  "queryString": "",
+  "locale": "en_US",
+  "error": true,
+  "msg": "Oops! Something went wrong. Please try again.",
+  "loggedIn": false,
+  "redirectUrl": "/en-us/login?wl=true"
+}

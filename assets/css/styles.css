@@ -1,0 +1,284 @@
+/***** LETTER *****/
+
+.doc-container {
+	position: relative;
+	overflow: auto;
+	font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document {
+    margin: 171px auto 121px auto;
+    color: black;
+    font-size: 17px;
+    line-height: 1.4em;
+    width: 90%;
+    max-width: 777px;
+    counter-reset: section;
+    font-family: Geologica, sans-serif !important;
+}
+
+@media (max-width: 1024px) {
+    .doc-container .document {
+        margin: 60px auto 120px;
+    }
+}
+
+.doc-container .document h1 {
+    color: black;
+    font-size: 2em;
+    line-height: 1.2em;
+    font-family: 'Geologica', sans-serif;
+    margin-bottom: 32px;
+}
+
+.doc-container .document h2::before {
+    counter-increment: section;
+    content: counter(section) ". ";
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document h2 {
+    text-transform: none;
+    font-size: 1rem;
+    counter-reset: subsection;
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document h3::before {
+    counter-increment: subsection;
+    content: counter(section) "."counter(subsection) ". ";
+    font-size: 1rem;
+}
+
+.doc-container .document h3 {
+    text-transform: none;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document p {
+    color: black;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+   font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document b {
+    font-weight: 800;
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+    margin: 1rem 0;
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document li {
+    font-size: 1rem;
+    font-family: Geologica, sans-serif;
+}
+
+.doc-container .document a {
+    font-family: Geologica, sans-serif !important;
+    color: #dc049b;
+    text-decoration: underline;
+}
+
+.doc-container .document .border td,
+.doc-container .document .border th {
+    border: 1px solid #666;
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container  .terms-table {
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 1rem;
+	font-family: Geologica, sans-serif !important;
+}
+
+.doc-container tr, 
+.doc-container td, 
+.doc-container th {
+	border: 1px solid #ccc;
+	padding:5px;
+
+}
+
+.doc-container .document .content h2 {
+    margin-top: 2rem;
+    font-family: Geologica, sans-serif !important;
+    font-weight: 400!important;
+}
+.doc-container .document .content h3 {
+    font-family: Geologica, sans-serif !important;
+}
+
+.doc-container .document table {
+    margin-bottom: 1rem;
+    font-family: Geologica, sans-serif !important;
+}
+
+.letter {
+    margin: 120px auto;
+    margin-top: 7.125rem;
+    color: black;
+    font-size: 17px;
+    line-height: 1.4em;
+    width: 90%;
+    max-width: 1280px;
+    font-family: Geologica, sans-serif;
+}
+
+@media (max-width: 1024px) {
+    .letter {
+        margin: 60px auto 120px;
+    }
+}
+
+.letter h1 {
+    color: black;
+    font-size: 2em;
+    line-height: 1.2em;
+    font-family: Geologica, sans-serif;
+    margin-bottom: 50px;
+}
+
+.letter h2 {
+    font-family: Geologica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    margin: 42px 0;
+}
+
+.letter h3 {
+    font-family: Geologica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 25px;
+    text-transform: none;
+}
+
+.letter p {
+    color: black;
+    font-size: 1rem;
+    margin-bottom: 25px;
+    font-family: Geologica, sans-serif;
+    font-family: Geologica, sans-serif !important;
+}
+
+.letter b {
+    font-weight: 800;
+}
+
+.letter ul {
+    list-style-type: disc;
+    list-style-type: none;
+    margin: 1rem 0;
+    padding-left: 0;
+    font-size: 16px;
+    font-family: Geologica, sans-serif;
+    font-family: Geologica, sans-serif !important;
+}
+
+.letter ul.default {
+    list-style-type: disc;
+    padding-left: 32px;
+}
+
+.letter ul.default li {}
+
+.letter ul.columns {
+    column-count: 3;
+    column-width: 50px;
+    font-family: Geologica, sans-serif !important;
+    column-gap: 10px;
+}
+
+@media (max-width: 768px) {
+    .letter ul.columns {
+        column-count: 2;
+    }
+}
+
+.letter li {
+    font-size: 1rem;
+}
+
+.letter a {
+    color: #dc049b;
+}
+
+.letter img.signature {
+    max-width: 80px;
+}
+
+.letter .content {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Geologica, sans-serif;
+}
+
+.letter .heart {
+    position: absolute;
+    top: -2.5rem;
+    right: 0;
+    height: 227px;
+    width: auto;
+    z-index: -1;
+}
+
+.dochero {
+    width: 161px;
+    height: 96px;
+    margin-bottom: 2.5rem;
+}
+
+.quote {
+    font-weight: bold;
+}
+
+.doc-container .content {
+    max-width: 50.125rem;
+    width: 100%;
+    margin: 0 auto;
+    font-family: Geologica, sans-serif;
+}
+
+.doc-container .content h1 {
+    font-size: 2.687rem;
+    line-height: 3.225rem;
+    font-weight: 700;
+    font-family: Geologica, sans-serif;
+}
+
+.doc-container .content p {
+    font-size: 1rem;
+    line-height: 1.485rem;
+    font-weight: 400;
+    font-family: Geologica, sans-serif;
+}
+
+@media (max-width: 768px) {
+    .doc-container .content h1 {
+        font-size: 2.5rem;                
+        line-height: 2.56rem;
+    }
+}
+
+@media (max-width: 414px) {
+    .doc-container .content h1 {
+        font-size: 2.125rem;
+    }
+}

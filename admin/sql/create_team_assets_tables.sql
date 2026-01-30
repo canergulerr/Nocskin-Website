@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS `team_members` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(255) NOT NULL,
+  `title` VARCHAR(255) NOT NULL,
+  `image_url` VARCHAR(255) NOT NULL,
+  `order_index` INT(11) DEFAULT 0,
+  `status` TINYINT(1) DEFAULT 1,
+  `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS `homepage_assets` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `asset_key` VARCHAR(100) NOT NULL UNIQUE,
+  `title` VARCHAR(255) NOT NULL,
+  `file_path` VARCHAR(255) NOT NULL,
+  `type` ENUM('image', 'video') NOT NULL DEFAULT 'image',
+  `updated_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

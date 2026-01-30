@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Defaults
+_pgbackup/
+_pgexport/
+pinegrow.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+error_log
+auth.json
+
+# Temporary/Debug
+test.php
+info.php
+admin/debug_login.php
+*.bak
+*.sql
+!admin/sql/*.sql
+
+# Dependencies (if any, though user seems to use manual vendor)
+# vendor/

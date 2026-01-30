@@ -1,0 +1,112 @@
+<?php
+// admin/announcements.php
+require_once 'includes/auth_check.php';
+require_once 'includes/db.php';
+require_once 'includes/header.php';
+require_once 'includes/sidebar.php';
+
+// Pagination
+$limit = 10;
+$page = isset($_GET['page']) ? (int) $_GET['page'] : 1;
+$offset = ($page - 1) * $limit;
+
+// Fetch announcements
+$stmt = $pdo->prepare("SELECT * FROM announcements ORDER BY order_index ASC LIMIT :limit OFFSET :offset");
+$stmt->bindParam(':limit', $limit, PDO::PARAM_INT);
+$stmt->bindParam(':offset', $offset, PDO::PARAM_INT);
+$stmt->execute();
+$announcements = $stmt->fetchAll();
+
+// Total count
+$total_stmt = $pdo->query("SELECT COUNT(*) FROM announcements");
+$total_rows = $total_stmt->fetchColumn();
+$total_pages = ceil($total_rows / $limit);
+?>
+
+<div id="page-content-wrapper">
+    <div class="container-fluid mt-4">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="mb-0">Duyuru Yönetimi (Kayan Yazı)</h1>
+            <a href="announcement-edit.php" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Yeni Duyuru Ekle
+            </a>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead class="table-light">
+                            <tr>
+                                <th style="width: 50px;">ID</th>
+                                <th>Metin</th>
+                                <th>Link (URL)</th>
+                                <th>Sıra</th>
+                                <th>Durum</th>
+                                <th style="width: 150px;">İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <?php foreach ($announcements as $row): ?>
+                                <tr>
+                                    <td>
+                                        <?php echo $row['id']; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo htmlspecialchars($row['text']); ?>
+                                    </td>
+                                    <td>
+                                        <?php echo htmlspecialchars($row['url']); ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['order_index']; ?>
+                                    </td>
+                                    <td>
+                                        <?php if ($row['status']): ?>
+                                            <span class="badge bg-success">Aktif</span>
+                                        <?php else: ?>
+                                            <span class="badge bg-secondary">Pasif</span>
+                                        <?php endif; ?>
+                                    </td>
+                                    <td>
+                                        <a href="announcement-edit.php?id=<?php echo $row['id']; ?>"
+                                            class="btn btn-sm btn-info text-white me-1">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a href="announcement-delete.php?id=<?php echo $row['id']; ?>"
+                                            class="btn btn-sm btn-danger"
+                                            onclick="return confirm('Bu duyuruyu silmek istediğinize emin misiniz?');">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            <?php endforeach; ?>
+                            <?php if (empty($announcements)): ?>
+                                <tr>
+                                    <td colspan="6" class="text-center py-4 text-muted">Henüz duyuru eklenmemiş.</td>
+                                </tr>
+                            <?php endif; ?>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Pagination -->
+                <?php if ($total_pages > 1): ?>
+                    <nav aria-label="Page navigation" class="mt-4">
+                        <ul class="pagination justify-content-center">
+                            <?php for ($i = 1; $i <= $total_pages; $i++): ?>
+                                <li class="page-item <?php echo ($i == $page) ? 'active' : ''; ?>">
+                                    <a class="page-link" href="?page=<?php echo $i; ?>">
+                                        <?php echo $i; ?>
+                                    </a>
+                                </li>
+                            <?php endfor; ?>
+                        </ul>
+                    </nav>
+                <?php endif; ?>
+            </div>
+        </div>
+    </div>
+</div>
+
+<?php require_once 'includes/footer.php'; ?>

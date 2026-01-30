@@ -1,0 +1,1288 @@
+Uri: https://theordinary.com/en-us
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us.html
+Content Type: text/html
+
+Uri: https://www.google.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index.htm
+Content Type: text/html
+
+Uri: https://cdn.cquotient.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index-1.htm
+Content Type: text/html
+
+Uri: https://cdn0.forter.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index.htm.json
+Content Type: application/json
+
+Uri: https://cdn3.forter.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index.htm-1.json
+Content Type: application/json
+
+Uri: https://cdn9.forter.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index.htm-2.json
+Content Type: application/json
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw111bf775/images/favicons/favicon-theordinary.ico
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw111bf775\images\favicons\favicon-theordinary.ico
+Content Type: image/x-icon
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw9d699b3f/images/favicons/favicon-theordinary.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw9d699b3f\images\favicons\favicon-theordinary.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw58e5b677/images/favicons/favicon-theordinary-apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw58e5b677\images\favicons\favicon-theordinary-apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwdf569b1d/images/favicons/favicon-theordinary-32x32.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwdf569b1d\images\favicons\favicon-theordinary-32x32.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw99ff95b6/images/favicons/favicon-theordinary-16x16.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw99ff95b6\images\favicons\favicon-theordinary-16x16.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwabed6e93/images/favicons/favicon-theordinary.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwabed6e93\images\favicons\favicon-theordinary.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/home/bootstrap.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\home\bootstrap.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/icons-font.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\icons-font.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/global.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\global.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/homePage.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\homePage.css
+Content Type: text/css
+
+Uri: https://theordinary.com/en-us/the-ordinary-slowvember-coming-soon.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-ordinary-slowvember-coming-soon.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/find-us
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\find-us.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/login
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\login.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/cart
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\cart.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/best-sellers
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\best-sellers.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/newfeatured
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\newfeatured.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/new
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\new.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/gifts
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\gifts.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/gifts/gift-sets
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\gifts\gift-sets.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/gift-card-100570.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\gift-card-100570.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/ingredients-book-100735.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\ingredients-book-100735.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/fond-farewell
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\fond-farewell.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/signs-of-aging
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\signs-of-aging.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/uneven-skin-tone
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\uneven-skin-tone.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/signs-of-congestion
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\signs-of-congestion.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/textural-irregularities
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\textural-irregularities.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/dryness
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\dryness.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/eye-care
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\eye-care.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/concern/reduce-redness
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\concern\reduce-redness.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/dullness
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\dullness.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/uv-protection
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\uv-protection.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/barrier-support
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\barrier-support.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/sensitive-skin
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\sensitive-skin.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/visible-shine
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\visible-shine.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-concern/antioxidant-support
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-concern\antioxidant-support.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/regimen-builder.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\regimen-builder.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-ordinary/skincare/shop-by-step
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-ordinary\skincare\shop-by-step.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-step/prep
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-step\prep.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/facial-cleansers
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\facial-cleansers.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/toners
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\toners.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-step/treat
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-step\treat.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/eye-serums
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\eye-serums.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/exfoliators
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\exfoliators.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/face-masks
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\face-masks.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/serums
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\serums.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/face-oils
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\face-oils.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-step/seal
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-step\seal.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/moisturizers
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\moisturizers.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/suncare
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\suncare.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/retinoids
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\retinoids.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/vitamin-c
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\vitamin-c.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/direct-acids
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\direct-acids.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/salicylic-acid
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\salicylic-acid.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/niacinamide
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\niacinamide.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/hyaluronic-acid
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\hyaluronic-acid.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/peptides
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\peptides.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/copper-peptides
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\copper-peptides.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/antioxidants
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\antioxidants.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/squalane
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\squalane.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/multi-active
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\multi-active.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/body-hair
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\body-hair.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/body-hair/body-care
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\body-hair\body-care.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/body-hair/hair-scalp-solutions
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\body-hair\hair-scalp-solutions.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/body-hair/lash-brow-treatment
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\body-hair\lash-brow-treatment.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/body-hair/lip-care
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\body-hair\lip-care.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/skincare-sets
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\skincare-sets.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/blog.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\blog.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/blog/mastering-skincare-routine-guide.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\blog\mastering-skincare-routine-guide.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/ingredient-glossary.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\ingredient-glossary.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/blog/skincare-layering-guide.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\blog\skincare-layering-guide.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/skincare-regimen-for-beginners.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\skincare-regimen-for-beginners.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-periodic-fable.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-periodic-fable.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/terms.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\terms.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/privacy-policy.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\privacy-policy.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/do-not-sell.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\do-not-sell.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/deciem-about.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\deciem-about.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/faq.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\faq.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/order-lookup
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\order-lookup.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1761278445707/deciem/css/styles.css?v5
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\en_US\v1761278445707\deciem\css\styles.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.store/Sites-deciem-us-Site/en_US/Wishlist-AddProduct
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.store\Sites-deciem-us-Site\en_US\Wishlist-AddProduct.json
+Content Type: application/json
+
+Uri: https://theordinary.com/en-us/glycolic-acid-7-exfoliating-toner-100418.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\glycolic-acid-7-exfoliating-toner-100418.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/multi-peptide-copper-peptides-1-serum-100625.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-peptide-copper-peptides-1-serum-100625.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/hyaluronic-acid-2-b5-serum-with-ceramides-100637.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\hyaluronic-acid-2-b5-serum-with-ceramides-100637.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/niacinamide-10-zinc-1-serum-100436.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\niacinamide-10-zinc-1-serum-100436.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/gf-15-solution-growth-factors-serum-100702.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\gf-15-solution-growth-factors-serum-100702.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/natural-moisturizing-factors-ha-moisturizer-100435.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\natural-moisturizing-factors-ha-moisturizer-100435.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/multi-peptide-eye-serum-100620.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-peptide-eye-serum-100620.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/natural-moisturizing-factors-phytoceramides-moisturizer-100610.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\natural-moisturizing-factors-phytoceramides-moisturizer-100610.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/azelaic-acid-suspension-10-exfoliator-100407.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\azelaic-acid-suspension-10-exfoliator-100407.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/multi-peptide-ha-serum-100613.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-peptide-ha-serum-100613.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/shop-by-ingredients/hydrators
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\shop-by-ingredients\hydrators.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/sulfur-10-powder-to-cream-concentrate-100708.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\sulfur-10-powder-to-cream-concentrate-100708.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/blog/definitive-guide-using-retinoids.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\blog\definitive-guide-using-retinoids.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/blog/skincare-toners.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\blog\skincare-toners.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/contact-us.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\contact-us.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/about-us.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\about-us.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/join-us
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\join-us.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/supply-chain-transparency.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\supply-chain-transparency.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/accessibility.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\accessibility.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/deciem-earth.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\deciem-earth.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/changeisthejourney.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\changeisthejourney.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/everything-is-chemicals.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\everything-is-chemicals.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/disposal-instructions.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\disposal-instructions.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/returns.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\returns.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/promotional-offer-terms.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\promotional-offer-terms.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/check-balance
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\check-balance.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/theordinary
+File Name: C:\Downloaded Web Sites\theordinary.com\theordinary.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/theordinary/
+File Name: C:\Downloaded Web Sites\theordinary.com\theordinary\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/deciem
+File Name: C:\Downloaded Web Sites\theordinary.com\deciem.html
+Content Type: text/html
+
+Uri: https://www.tiktok.com/@theordinary
+File Name: C:\Downloaded Web Sites\theordinary.com\@theordinary.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/vendors.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\vendors.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/main.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\main.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/homePage_theordinary.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\homePage_theordinary.js
+Content Type: text/javascript
+
+Uri: https://apps.bazaarvoice.com/deployments/deciem/main_site/production/en_US/bv.js
+File Name: C:\Downloaded Web Sites\theordinary.com\deployments\deciem\main_site\production\en_US\bv.js
+Content Type: text/javascript
+
+Uri: https://static.ordergroove.com/d9e0963334254858b90cf68389c2aace/main.js
+File Name: C:\Downloaded Web Sites\theordinary.com\d9e0963334254858b90cf68389c2aace\main.js
+Content Type: application/javascript
+
+Uri: https://widget.gotolstoy.com/widget/widget.js
+File Name: C:\Downloaded Web Sites\theordinary.com\widget\widget.js
+Content Type: application/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwbf417386/images/brands-logo/theOrdinary-logo.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwbf417386\images\brands-logo\theOrdinary-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw04f3255d/images/brands-logo/theordinary_black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw04f3255d\images\brands-logo\theordinary_black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwaf34ce59/images/brands-logo/niod_black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwaf34ce59\images\brands-logo\niod_black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw265a4cd3/images/brands-logo/loopha_black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw265a4cd3\images\brands-logo\loopha_black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw951253d9/images/brands-logo/deciem_black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw951253d9\images\brands-logo\deciem_black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw4ee7d800/theordinary/logo.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw4ee7d800\theordinary\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwd75589ed/images/icons/svg/track-order-black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwd75589ed\images\icons\svg\track-order-black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwa148e371/images/brands-logo/theordinary.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwa148e371\images\brands-logo\theordinary.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw617e88ef/images/brands-logo/theordinary_white.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw617e88ef\images\brands-logo\theordinary_white.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw86c1e57d/images/brands-logo/niod.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw86c1e57d\images\brands-logo\niod.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw93298ae8/images/brands-logo/niod_white.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw93298ae8\images\brands-logo\niod_white.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw0e544fc0/images/brands-logo/loopha.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw0e544fc0\images\brands-logo\loopha.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw73bca2ea/images/brands-logo/loopha_white.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw73bca2ea\images\brands-logo\loopha_white.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwb462007d/images/brands-logo/deciem_full_black.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwb462007d\images\brands-logo\deciem_full_black.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw6b7f4d7f/images/brands-logo/deciem_full_white.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw6b7f4d7f\images\brands-logo\deciem_full_white.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwa1061449/awards/womens-award-160.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwa1061449\awards\womens-award-160.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwd0f510dc/awards/ORD-team-favs.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwd0f510dc\awards\ORD-team-favs.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw75da8b67/awards/sheerluxe-2023.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw75da8b67\awards\sheerluxe-2023.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwc7c5e8a0/theordinary/50-50-images/2025-08-07-CTB-MHM-03-50-50-2.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwc7c5e8a0\theordinary\50-50-images\2025-08-07-CTB-MHM-03-50-50-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-PSNCTZT&gtm_auth=at3rkKALywQckzT0tnSSvQ&gtm_preview=env-1&gtm_cookies_win=x
+File Name: C:\Downloaded Web Sites\theordinary.com\ns.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=explicit&onload=onRecaptchaLoad
+File Name: C:\Downloaded Web Sites\theordinary.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.dwin1.com/29849.js
+File Name: C:\Downloaded Web Sites\theordinary.com\29849.js
+Content Type: application/javascript
+
+Uri: https://static.myshlf.us/Affiliates/sms_aff_clicktrack-deciem.js
+File Name: C:\Downloaded Web Sites\theordinary.com\Affiliates\sms_aff_clicktrack-deciem.js
+Content Type: application/javascript
+
+Uri: https://deciem.my.site.com/ESWServiceAi1737344504997/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\theordinary.com\ESWServiceAi1737344504997\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/internal/jscript/dwanalytics-22.2.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\internal\jscript\dwanalytics-22.2.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/internal/jscript/dwac-21.7.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\internal\jscript\dwac-21.7.js
+Content Type: text/javascript
+
+Uri: https://cdn.cquotient.com/js/v2/gretel.min.js
+File Name: C:\Downloaded Web Sites\theordinary.com\js\v2\gretel.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.static.amplience.net/deciem/_vid/ord-homepage-50-50-hydrators-v2/925907d9-f5bd-4071-8124-6420f66664ce/video/b3fc66a9-9f9c-4f3c-9431-5784d5342fed.mp4
+File Name: C:\Downloaded Web Sites\theordinary.com\deciem\_vid\ord-homepage-50-50-hydrators-v2\925907d9-f5bd-4071-8124-6420f66664ce\video\b3fc66a9-9f9c-4f3c-9431-5784d5342fed.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.static.amplience.net/deciem/_vid/sulfur-10-treatment_homepage-hero_web_desktop_50-50format/925907d9-f5bd-4071-8124-6420f66664ce/video/6abe277f-9747-457e-88bb-5ebf50c15520.mp4
+File Name: C:\Downloaded Web Sites\theordinary.com\deciem\_vid\sulfur-10-treatment_homepage-hero_web_desktop_50-50format\925907d9-f5bd-4071-8124-6420f66664ce\video\6abe277f-9747-457e-88bb-5ebf50c15520.mp4
+Content Type: video/mp4
+
+Uri: https://marketingplatform.google.com/about/analytics/
+File Name: C:\Downloaded Web Sites\theordinary.com\about\analytics\index.htm
+Content Type: text/html
+
+Uri: https://login.salesforce.com/
+File Name: C:\Downloaded Web Sites\theordinary.com\index-2.htm
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://theordinary.com/en-us/create-account
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\create-account.html
+Content Type: text/html
+
+Uri: https://cdn.media.amplience.net/i/deciem/2025-08-20-ORD-Slowvember-Gift-pouch-lifestyle-02-JC 1 (1)
+File Name: C:\Downloaded Web Sites\theordinary.com\i\deciem\2025-08-20-ORD-Slowvember-Gift-pouch-lifestyle-02-JC 1 (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.media.amplience.net/i/deciem/Image Placeholder (1)
+File Name: C:\Downloaded Web Sites\theordinary.com\i\deciem\Image Placeholder (1).png
+Content Type: image/png
+
+Uri: https://cdn.media.amplience.net/i/deciem/2024-11-28-ORD-Lifestyle-Gluc-Clnsr-150mL-Glyc-Acid-7pct-100mL-Nia-Zinc-30mL-NMF-HA-100mL-EY 1
+File Name: C:\Downloaded Web Sites\theordinary.com\i\deciem\2024-11-28-ORD-Lifestyle-Gluc-Clnsr-150mL-Glyc-Acid-7pct-100mL-Nia-Zinc-30mL-NMF-HA-100mL-EY 1.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.media.amplience.net/i/deciem/5050teaser 1
+File Name: C:\Downloaded Web Sites\theordinary.com\i\deciem\5050teaser 1.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/storeLocator.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\storeLocator.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/storeLocator.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\storeLocator.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw8f1d42da/images/bg-oil-find-us.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw8f1d42da\images\bg-oil-find-us.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwcdc3edd1/images/brands-logo/niod_grey.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwcdc3edd1\images\brands-logo\niod_grey.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/account/login-create.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\account\login-create.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/account/account.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\account\account.css
+Content Type: text/css
+
+Uri: https://theordinary.com/en-us/password-reset
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\password-reset.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/login.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\login.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/loginAccordion.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\loginAccordion.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw1a6617c2/deciem/signin-banner-image.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw1a6617c2\deciem\signin-banner-image.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/cart.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\cart.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwc5a74160/cart/theordinary-circle.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwc5a74160\cart\theordinary-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwd238541c/cart/niod-circle.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwd238541c\cart\niod-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw6e8dfb69/cart/loopha-circle.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw6e8dfb69\cart\loopha-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw5a126fe0/cart/deciem-circle.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw5a126fe0\cart\deciem-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://niod.com/en-us
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us-1.html
+Content Type: text/html
+
+Uri: https://loopha.com/en-us
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us-2.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/productSearch.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\productSearch.css
+Content Type: text/css
+
+Uri: https://theordinary.com/en-us/glucoside-foaming-face-cleanser-100616.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\glucoside-foaming-face-cleanser-100616.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/squalane-face-cleanser-100446.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\squalane-face-cleanser-100446.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/search.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\search.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/accordion.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\accordion.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw85c3a518/awards/BestofBeauty_2023.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw85c3a518\awards\BestofBeauty_2023.png
+Content Type: image/png
+
+Uri: https://theordinary.com/en-us/the-lip-lash-gfit-set-100725.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-lip-lash-gfit-set-100725.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-winter-skin-gift-set-100734.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-winter-skin-gift-set-100734.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-face-and-body-gift-set-100729.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-face-and-body-gift-set-100729.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/soothing-barrier-support-serum-gift-set-100736.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\soothing-barrier-support-serum-gift-set-100736.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/pha-5-exfoliating-lip-serum-100721.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\pha-5-exfoliating-lip-serum-100721.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-mini-icons-skincare-set-100679.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-mini-icons-skincare-set-100679.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/multi-antioxidant-radiance-serum-100716.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-antioxidant-radiance-serum-100716.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/uv-filters-spf-45-serum-100720.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\uv-filters-spf-45-serum-100720.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/aha-30-bha-2-peeling-solution-exfoliator-100400.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\aha-30-bha-2-peeling-solution-exfoliator-100400.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-acne-set-100631.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-acne-set-100631.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwa389b36b/awards/ORD-new-suncare-badge.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwa389b36b\awards\ORD-new-suncare-badge.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwdf00d2a8/awards/glamour-beauty-22.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwdf00d2a8\awards\glamour-beauty-22.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwde28d73d/theordinary/gridbreakers/beginners-guide-gridbreaker.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwde28d73d\theordinary\gridbreakers\beginners-guide-gridbreaker.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/the-mini-discovery-set-100680.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-mini-discovery-set-100680.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-bright-set-100664.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-bright-set-100664.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-daily-set-100649.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-daily-set-100649.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-age-support-set-100719.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-age-support-set-100719.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-nightly-gift-set-100671.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-nightly-gift-set-100671.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-resurface-hydrate-gift-set-100673.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-resurface-hydrate-gift-set-100673.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/product/detail.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\product\detail.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/product/giftcardDetail.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\product\giftcardDetail.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/product-recommendations/recommendations.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\product-recommendations\recommendations.css
+Content Type: text/css
+
+Uri: https://theordinary.com/en-us/category
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/gift-card-terms-and-conditions.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\gift-card-terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/productDetail.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\productDetail.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/product/detail.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\product\detail.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/product/productCompatibilitySearch.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\product\productCompatibilitySearch.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/pdpSummary.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\pdpSummary.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw3d51c1d7/Images/products/The Ordinary/rdn-ingredients-book.png?sw=800&sh=800&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw3d51c1d7\Images\products\The Ordinary\rdn-ingredients-book.png
+Content Type: image/png
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw3d51c1d7/Images/products/The Ordinary/rdn-ingredients-book.png?sw=340&sh=340&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw3d51c1d7\Images\products\The Ordinary\rdn-ingredients-book-1.png
+Content Type: image/png
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw3d51c1d7/Images/products/The Ordinary/rdn-ingredients-book.png?sw=860&sh=860&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw3d51c1d7\Images\products\The Ordinary\rdn-ingredients-book-2.png
+Content Type: image/png
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwf71c781c/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-02.jpg?sw=340&sh=340&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dwf71c781c\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-02.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwf71c781c/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-02.jpg?sw=860&sh=860&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dwf71c781c\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwbb496445/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-03.jpg?sw=340&sh=340&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dwbb496445\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-03.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwbb496445/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-03.jpg?sw=860&sh=860&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dwbb496445\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw37097c3b/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-04.jpg?sw=340&sh=340&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw37097c3b\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-04.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw37097c3b/Images/products/The Ordinary/lifestyle/rdn-ingredients-book-04.jpg?sw=860&sh=860&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw37097c3b\Images\products\The Ordinary\lifestyle\rdn-ingredients-book-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw3d51c1d7/Images/products/The Ordinary/rdn-ingredients-book.png?sw=1200&sh=1200&sm=fit
+File Name: C:\Downloaded Web Sites\theordinary.com\dw\image\v2\BFKJ_PRD\on\demandware.static\-\Sites-deciem-master\default\dw3d51c1d7\Images\products\The Ordinary\rdn-ingredients-book-3.png
+Content Type: image/png
+
+Uri: https://theordinary.com/en-us/the-power-of-peptides-gift-set-100635.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-power-of-peptides-gift-set-100635.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/100-niacinamide-powder-serum-100391.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-niacinamide-powder-serum-100391.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-most-loved-gift-set-100633.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-most-loved-gift-set-100633.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/category/skincare/skincare-products
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\category\skincare\skincare-products.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/serum-foundation-100445.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\serum-foundation-100445.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/matrixyl-10-ha-serum-100431.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\matrixyl-10-ha-serum-100431.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/argireline-solution-10-serum-100403.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\argireline-solution-10-serum-100403.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/niacinamide-5-face-body-serum-100661.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\niacinamide-5-face-body-serum-100661.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/caffeine-solution-5-egcg-eye-serum-100412.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\caffeine-solution-5-egcg-eye-serum-100412.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw0c092563/theordinary/50-50-images/2025-08-07-CTB-MHM-09-50-50.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw0c092563\theordinary\50-50-images\2025-08-07-CTB-MHM-09-50-50.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/squalane-amino-acids-lip-balm-100657.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\squalane-amino-acids-lip-balm-100657.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/multi-peptide-serum-for-hair-density-hair-scalp-treatment-100434.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-peptide-serum-for-hair-density-hair-scalp-treatment-100434.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/retinal-02-emulsion-100646.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\retinal-02-emulsion-100646.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/100-organic-cold-pressed-rose-hip-seed-face-oil-100394.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-organic-cold-pressed-rose-hip-seed-face-oil-100394.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/retinol-1-in-squalane-serum-100441.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\retinol-1-in-squalane-serum-100441.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/granactive-retinoid-2-emulsion-serum-100419.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\granactive-retinoid-2-emulsion-serum-100419.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwfbeb4258/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-Mlt-Pptd-HA.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwfbeb4258\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-Mlt-Pptd-HA.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw3c4cf3c7/theordinary/50-50-images/Signs-of-Aging-Segment-Gridbreaker-ABTest.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw3c4cf3c7\theordinary\50-50-images\Signs-of-Aging-Segment-Gridbreaker-ABTest.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/the-uneven-skin-tone-collection-200125.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-uneven-skin-tone-collection-200125.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/alpha-arbutin-2-ha-serum-100401.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\alpha-arbutin-2-ha-serum-100401.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/saccharomyces-ferment-30-milky-toner-100647.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\saccharomyces-ferment-30-milky-toner-100647.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/retinol-02-in-squalane-serum-100439.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\retinol-02-in-squalane-serum-100439.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/granactive-retinoid-5-in-squalane-serum-100421.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\granactive-retinoid-5-in-squalane-serum-100421.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/retinol-05-in-squalane-serum-100440.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\retinol-05-in-squalane-serum-100440.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw39774d8e/awards/allure-bestofbeauty-award-2024.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw39774d8e\awards\allure-bestofbeauty-award-2024.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw639bdd19/awards/boots-2022.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw639bdd19\awards\boots-2022.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/salicylic-acid-2-solution-acne-control-100098.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\salicylic-acid-2-solution-acne-control-100098.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/balancing-clarifying-serum-100641.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\balancing-clarifying-serum-100641.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/salicylic-acid-2-face-masque-100443.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\salicylic-acid-2-face-masque-100443.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/salicylic-acid-2-anhydrous-solution-exfoliator-100442.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\salicylic-acid-2-anhydrous-solution-exfoliator-100442.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/salicylic-acid-05-body-serum-100644.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\salicylic-acid-05-body-serum-100644.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-balance-set-100447.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-balance-set-100447.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-smooth-skin-collection-200123.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-smooth-skin-collection-200123.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-hydration-collection-200133.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-hydration-collection-200133.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/natural-moisturizing-factors-beta-glucan-moisturizer-100612.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\natural-moisturizing-factors-beta-glucan-moisturizer-100612.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw0247cd81/theordinary/gridbreakers/2025-09-15-Always-On-Grid-Breakers-science-hydration-blog.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw0247cd81\theordinary\gridbreakers\2025-09-15-Always-On-Grid-Breakers-science-hydration-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw9fa3015e/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-HA+B5.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw9fa3015e\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-HA B5.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/multi-peptide-lash-brow-serum-100111.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-peptide-lash-brow-serum-100111.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-multi-peptide-collection-200130.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-multi-peptide-collection-200130.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-eye-lash-and-brow-collection-300129.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-eye-lash-and-brow-collection-300129.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwe870aeec/theordinary/gridbreakers/2025-09-15-Always-On-Grid-Breakers-eye-serums-blog.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwe870aeec\theordinary\gridbreakers\2025-09-15-Always-On-Grid-Breakers-eye-serums-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwd1cbdb0b/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-Mlt-Pptd-Lash-Opt2.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwd1cbdb0b\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-Mlt-Pptd-Lash-Opt2.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/the-sensitive-skin-collection-200134.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-sensitive-skin-collection-200134.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/soothing-barrier-support-serum-100634.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\soothing-barrier-support-serum-100634.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/aloe-2-nag-2-solution-blemish-serum-100618.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\aloe-2-nag-2-solution-blemish-serum-100618.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/100-fermented-rose-hip-seed-oil-100681.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-fermented-rose-hip-seed-oil-100681.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwe87e9970/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-Glyc-Acid.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwe87e9970\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-Glyc-Acid.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/multi-active-delivery-essence-100706.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\multi-active-delivery-essence-100706.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/glycolipid-cream-face-cleanser-100615.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\glycolipid-cream-face-cleanser-100615.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw990e12ef/theordinary/gridbreakers/sbss-blog1-grid-breaker.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw990e12ef\theordinary\gridbreakers\sbss-blog1-grid-breaker.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw5ffd416e/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-NMF+HA.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw5ffd416e\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-NMF HA.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/100-plant-derived-squalane-face-oil-100398.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-plant-derived-squalane-face-oil-100398.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw5e09b7c0/theordinary/gridbreakers/2025-03-21-Always-On-Grid-Breakers-Nia.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw5e09b7c0\theordinary\gridbreakers\2025-03-21-Always-On-Grid-Breakers-Nia.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/vitamin-c-suspension-23-ha-spheres-2-vitamin-c-100451.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\vitamin-c-suspension-23-ha-spheres-2-vitamin-c-100451.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/ascorbyl-glucoside-solution-12-vitamin-c-100405.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\ascorbyl-glucoside-solution-12-vitamin-c-100405.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/100-cold-pressed-virgin-marula-face-oil-100389.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-cold-pressed-virgin-marula-face-oil-100389.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/ascorbyl-tetraisopalmitate-solution-20-in-vitamin-f-vitamin-c-100406.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\ascorbyl-tetraisopalmitate-solution-20-in-vitamin-f-vitamin-c-100406.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/100-l-ascorbic-acid-powder-vitamin-c-100390.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-l-ascorbic-acid-powder-vitamin-c-100390.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/euk-134-01-antioxidant-serum-100417.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\euk-134-01-antioxidant-serum-100417.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/pycnogenol-5-antioxidant-serum-100437.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\pycnogenol-5-antioxidant-serum-100437.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/resveratrol-3-ferulic-acid-3-antioxidant-serum-100438.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\resveratrol-3-ferulic-acid-3-antioxidant-serum-100438.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/the-antioxidant-collection-200126.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-antioxidant-collection-200126.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/css/brands/theordinary/regimenBuilder.css
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\css\brands\theordinary\regimenBuilder.css
+Content Type: text/css
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1761278445707/js/regimenBuilder.js
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\en_US\v1761278445707\js\regimenBuilder.js
+Content Type: text/javascript
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw392f7869/images/theordinary/regimen-builder-intro.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw392f7869\images\theordinary\regimen-builder-intro.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw5e28e388/images/theordinary/regimen-builder/AgingEarly.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw5e28e388\images\theordinary\regimen-builder\AgingEarly.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwd9eac8a0/images/theordinary/regimen-builder/AgingAdvanced.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwd9eac8a0\images\theordinary\regimen-builder\AgingAdvanced.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw7de4ac3b/images/theordinary/regimen-builder/Congestion.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw7de4ac3b\images\theordinary\regimen-builder\Congestion.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw2ebe693e/images/theordinary/regimen-builder/Dehydration.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw2ebe693e\images\theordinary\regimen-builder\Dehydration.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwa3396c16/images/theordinary/regimen-builder/Dryness.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwa3396c16\images\theordinary\regimen-builder\Dryness.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwe4a1e73f/images/theordinary/regimen-builder/Dullness.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwe4a1e73f\images\theordinary\regimen-builder\Dullness.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dwff51563c/images/theordinary/regimen-builder/Sensitivity.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dwff51563c\images\theordinary\regimen-builder\Sensitivity.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw8e21d7ba/images/theordinary/regimen-builder/UnevenTone.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw8e21d7ba\images\theordinary\regimen-builder\UnevenTone.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw974b6213/images/theordinary/regimen-builder/Texture.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw974b6213\images\theordinary\regimen-builder\Texture.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw60220adc/images/theordinary/regimen-builder/AntioxidantSupport.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw60220adc\images\theordinary\regimen-builder\AntioxidantSupport.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/Wrinkles.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\Wrinkles.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/DarkCircles.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\DarkCircles.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/GelLike.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\GelLike.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/BalmOrOil.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\BalmOrOil.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/Cream.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\Cream.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/Moisturiser_GelLike.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\Moisturiser_GelLike.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/Moisturiser_CreamLight.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\Moisturiser_CreamLight.png
+Content Type: image/png
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-Site/-/default/dwae0937f9/images/theordinary/regimen-builder/Moisturiser_CreamRich.png
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-Site\-\default\dwae0937f9\images\theordinary\regimen-builder\Moisturiser_CreamRich.png
+Content Type: image/png
+
+Uri: https://theordinary.com/en-us/the-cleanser-discovery-gift-set-100639.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-cleanser-discovery-gift-set-100639.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw8caa748c/theordinary/gridbreakers/what-is-a-cleanser-gridbreaker.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw8caa748c\theordinary\gridbreakers\what-is-a-cleanser-gridbreaker.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/the-glycolic-acid-gift-set-100666.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\the-glycolic-acid-gift-set-100666.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw7ece4d9c/theordinary/gridbreakers/essence-vs-toner-blog-gridbreaker.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw7ece4d9c\theordinary\gridbreakers\essence-vs-toner-blog-gridbreaker.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/mandelic-acid-10-ha-exfoliator-100429.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\mandelic-acid-10-ha-exfoliator-100429.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/lactic-acid-10-ha-exfoliator-100426.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\lactic-acid-10-ha-exfoliator-100426.html
+Content Type: text/html
+
+Uri: https://theordinary.com/en-us/lactic-acid-5-ha-exfoliator-100427.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\lactic-acid-5-ha-exfoliator-100427.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw4fc22318/theordinary/gridbreakers/2025-09-15-Always-On-Grid-Breakers-b2b-exfoliation-blog.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw4fc22318\theordinary\gridbreakers\2025-09-15-Always-On-Grid-Breakers-b2b-exfoliation-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dw8da455f1/theordinary/gridbreakers/sbss-gridbreaker.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dw8da455f1\theordinary\gridbreakers\sbss-gridbreaker.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/default/dw51a26db7/images/icons/svg/arrow.svg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\Sites-deciem-us-Site\-\default\dw51a26db7\images\icons\svg\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://theordinary.com/en-us/100-organic-cold-pressed-moroccan-argan-face-oil-100393.html
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\100-organic-cold-pressed-moroccan-argan-face-oil-100393.html
+Content Type: text/html
+
+Uri: https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/default/dwf34e0f85/theordinary/gridbreakers/2025-09-15-Always-On-Grid-Breakers-all-face-oils-blog.jpg
+File Name: C:\Downloaded Web Sites\theordinary.com\on\demandware.static\-\Library-Sites-DeciemSharedLibrary\default\dwf34e0f85\theordinary\gridbreakers\2025-09-15-Always-On-Grid-Breakers-all-face-oils-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://theordinary.com/en-us/login?rurl=1
+File Name: C:\Downloaded Web Sites\theordinary.com\en-us\login-1.html
+Content Type: text/html
+
+Uri: https://niod.com/en-ca
+File Name: C:\Downloaded Web Sites\theordinary.com\en-ca.html
+Content Type: text/html
+
+Uri: https://cdn.static.amplience.net/deciem/_vid/ord-serumfoundation-web-homepage-slot5050_desktop/925907d9-f5bd-4071-8124-6420f66664ce/video/d38ed675-f752-4fd6-959a-77f367003823.mp4
+File Name: C:\Downloaded Web Sites\theordinary.com\deciem\_vid\ord-serumfoundation-web-homepage-slot5050_desktop\925907d9-f5bd-4071-8124-6420f66664ce\video\d38ed675-f752-4fd6-959a-77f367003823.mp4
+Content Type: video/mp4
+
