@@ -20,7 +20,6 @@ auth.json
 # Temporary/Debug
 test.php
 info.php
-admin/debug_login.php
 *.bak
 *.sql
 !admin/sql/*.sql
