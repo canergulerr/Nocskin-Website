@@ -25,4 +25,4 @@ jobs:
             **/.git*/**
             .gitignore
             .github/**
-            admin/debug_login.php
+            uploads/**
