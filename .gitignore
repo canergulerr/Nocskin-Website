@@ -27,3 +27,5 @@ admin/debug_login.php
 
 # Dependencies (if any, though user seems to use manual vendor)
 # vendor/
+config.php
+admin/includes/db.php
