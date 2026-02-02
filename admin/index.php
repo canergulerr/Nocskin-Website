@@ -1,5 +1,5 @@
-<?php include dirname(__DIR__) . '/config.php'; ?>
 <?php
+include dirname(__DIR__) . '/config.php';
 require_once 'includes/auth_check.php';
 require_once 'includes/db.php';
 require_once 'includes/header.php';
