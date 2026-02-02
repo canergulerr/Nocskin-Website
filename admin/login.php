@@ -1,4 +1,5 @@
 <?php
+ob_start();
 include dirname(__DIR__) . '/config.php';
 session_start();
 ini_set('display_errors', 1);
