@@ -1,5 +1,5 @@
-<?php include dirname(__DIR__) . '/config.php'; ?>
 <?php
+include dirname(__DIR__) . '/config.php';
 session_start();
 require_once 'includes/db.php';
 
