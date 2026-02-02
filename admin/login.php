@@ -194,7 +194,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="mb-5">
                         <img src="<?= BASE_URL ?>/on/demandware.static/Sites-deciem-us-Site/-/default/dwbf417386/images/brands-logo/noc-logo.png"
                             alt="Noc Admin" class="brand-logo" style="height: 40px; width: auto;">
-                        <h2 class="fw-bold text-dark mb-2">Tekrar Hoşgeldiniz 44</h2>
+                        <h2 class="fw-bold text-dark mb-2">Tekrar Hoşgeldiniz 43</h2>
                         <p class="text-muted">Hesabınıza erişmek için bilgilerinizi girin.</p>
                     </div>
 
