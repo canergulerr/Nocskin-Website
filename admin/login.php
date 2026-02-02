@@ -23,9 +23,25 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         $id = $row['id'];
                         $hashed_password = $row['password'];
 
-                        // Verify password
+                        // Verify password (modern hash)
                         if (password_verify($password, $hashed_password)) {
                             // Password is correct, start a new session
+                            $_SESSION['admin_logged_in'] = true;
+                            $_SESSION['admin_id'] = $id;
+                            $_SESSION['admin_username'] = $username;
+
+                            header("Location: index.php");
+                            exit;
+                        }
+                        // Fallback: Check for MD5 (Legacy)
+                        elseif (md5($password) === $hashed_password) {
+                            // Password matches MD5. Upgrade to Bcrypt for security.
+                            $new_hash = password_hash($password, PASSWORD_DEFAULT);
+                            $update_sql = "UPDATE admin_users SET password = :new_hash WHERE id = :id";
+                            $update_stmt = $pdo->prepare($update_sql);
+                            $update_stmt->execute([':new_hash' => $new_hash, ':id' => $id]);
+
+                            // Log in
                             $_SESSION['admin_logged_in'] = true;
                             $_SESSION['admin_id'] = $id;
                             $_SESSION['admin_username'] = $username;
