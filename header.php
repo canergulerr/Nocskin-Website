@@ -30,7 +30,11 @@ try {
 
 // Fetch menus
 try {
-    $stmt = $pdo->prepare("SELECT * FROM menus WHERE status = 1 ORDER BY parent_id ASC, position ASC");
+    // Only fetch header menus (exclude footer_column, footer_bottom etc.)
+    // Assuming header items have location = 'header' or NULL or empty. 
+    // Safest is to explicitly exclude known footer types or include 'header' if valid.
+    // Based on user screenshot, footer items are explicit. 
+    $stmt = $pdo->prepare("SELECT * FROM menus WHERE status = 1 AND (location IS NULL OR location = '' OR location = 'header') ORDER BY parent_id ASC, position ASC");
     $stmt->execute();
     $all_menus = $stmt->fetchAll(PDO::FETCH_ASSOC);
 } catch (PDOException $e) {
